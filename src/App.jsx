@@ -9,7 +9,7 @@ import Loading from "./component/Loading";
 import { ToastContainer } from "react-toastify";
 import Footer from "./component/Footer";
 
-const ticketsPromise = fetch("/tickets.json").then((res) => res.json());
+const ticketsPromise = fetch("https://raw.githubusercontent.com/somrat350/Assignment-no7/refs/heads/main/public/tickets.json").then((res) => res.json());
 
 function App() {
   const [tickets, setTickets] = useState([]);
