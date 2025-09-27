@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "title": "Login not working",
+    "description": "User reports being unable to log into their account.",
+    "customer": "John",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20"
+  },
+  {
+    "id": 2,
+    "title": "Payment gateway error",
+    "description": "Checkout fails with a 502 error when paying with credit card.",
+    "customer": "Alice",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-21"
+  },
+  {
+    "id": 3,
+    "title": "Slow website performance",
+    "description": "Customer experiencing long load times on dashboard.",
+    "customer": "Michael",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-22"
+  },
+  {
+    "id": 4,
+    "title": "Forgot password email not sent",
+    "description": "User not receiving reset password link.",
+    "customer": "Sophia",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-09-19"
+  },
+  {
+    "id": 5,
+    "title": "UI bug on mobile",
+    "description": "Navigation menu overlaps content on small screens.",
+    "customer": "David",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-09-18"
+  },
+  {
+    "id": 6,
+    "title": "API returning 401 error",
+    "description": "Customer API key authentication fails unexpectedly.",
+    "customer": "Emma",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-23"
+  },
+  {
+    "id": 7,
+    "title": "Feature request: Dark mode",
+    "description": "Customer requests dark mode option in settings.",
+    "customer": "Liam",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-09-17"
+  },
+  {
+    "id": 8,
+    "title": "Email notifications delayed",
+    "description": "System emails are delayed by several hours.",
+    "customer": "Olivia",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-16"
+  },
+  {
+    "id": 9,
+    "title": "Broken image links",
+    "description": "Profile pictures not displaying on user dashboard.",
+    "customer": "Noah",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-09-15"
+  },
+  {
+    "id": 10,
+    "title": "Two-factor authentication issue",
+    "description": "User not receiving SMS verification codes.",
+    "customer": "Isabella",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-14"
+  },
+  {
+    "id": 11,
+    "title": "Export to CSV not working",
+    "description": "Download button does not trigger CSV export.",
+    "customer": "James",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-13"
+  },
+  {
+    "id": 12,
+    "title": "App crash on startup",
+    "description": "Mobile app crashes immediately after opening.",
+    "customer": "Mia",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-12"
+  },
+  {
+    "id": 13,
+    "title": "Report generation too slow",
+    "description": "Generating analytics reports takes over 2 minutes.",
+    "customer": "Benjamin",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-11"
+  },
+  {
+    "id": 14,
+    "title": "Chat support not loading",
+    "description": "Live chat widget fails to initialize on homepage.",
+    "customer": "Charlotte",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-10"
+  }
+]
